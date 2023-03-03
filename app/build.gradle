@@ -3,7 +3,7 @@ plugins {
 }
 
 android {
-    namespace 'com.example.mujik'
+    namespace 'com.example.musicplayer'
     compileSdk 32
 
     defaultConfig {

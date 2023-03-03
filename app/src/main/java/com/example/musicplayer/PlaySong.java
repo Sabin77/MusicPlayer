@@ -11,7 +11,7 @@ import android.widget.ImageView;
 import android.widget.SeekBar;
 import android.widget.TextView;
 
-import com.example.mujik.R;
+
 //import com.example.musicplayer.R;
 
 import java.io.File;
